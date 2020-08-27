@@ -12,6 +12,7 @@ object LanguageCompilerStatic {
     "construct" -> ConstructClassCompiler,
     "cpp_stl" -> CppCompiler,
     "csharp" -> CSharpCompiler,
+    "dart" -> DartCompiler,
     "graphviz" -> GraphvizClassCompiler,
     "go" -> GoCompiler,
     "html" -> HtmlClassCompiler,
